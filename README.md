@@ -13,12 +13,10 @@
             Path = Pecha_id/README.md
             eg: P000001/README.md
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/Readme.png)
-
         2. base
             2.1 base files names
                 Path = pecha_id/pecha_id.opf/base/volumenum.txt
                 eg: P000001/P000001.opf/base/v001.txt
-
         3. layers
             3.1 different types of layer folders
                 Path = Pecha_id/Pecha_id.opf/layers/volumenum/filename.yml
@@ -32,8 +30,7 @@
                     3.1.1.5 Tsawa.yml
                     3.1.1.6 Quotaion.yml
                     3.1.1.7 Yigchung.yml
-                    3.1.1.8 Sabche.yml
-                    
+                    3.1.1.8 Sabche.yml  
                 3.1.2 layer files of pecha with initial_creation_type = ocr 
                     Path = Pecha_id/Pecha_id.opf/layers/volumenum/Pagination.yml
                     eg: P000001/P000001.opf/layers/v001/Pagination.yml
