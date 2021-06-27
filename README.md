@@ -20,7 +20,7 @@
             3.1 different types of layer folders
                 Path = Pecha_id/Pecha_id.opf/layers/volumenum/filename.yml
                 eg: P000010/P000010.opf/layers/v001/Author.yml
-                [![](./images/ebook_layers.png)]
+ ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/ebook_layers.png
                 3.1.1 layer files of pecha with initial_creation_type = ebook
                     3.1.1.1 Author.yml
                     3.1.1.2 BookTitle.yml
