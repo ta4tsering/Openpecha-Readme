@@ -51,10 +51,14 @@
                         2.1.1 Pagination.yml without the image_group_id and pagination keys and it's value
                             eg:
                                 P000600/P000600.opf/layers/v001/Pagination.yml
+                                
+![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/pg_no_pg.png)
                        
                         2.1.2 Pagination.yml with image_group_id and pagination keys and it's value
                             eg:
                                 P000313/P000313.opf/layers/v001/Pagination.yml
+                                
+![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/pg_with_pg.png)
                         
                         
                         
