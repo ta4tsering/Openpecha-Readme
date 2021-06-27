@@ -40,9 +40,3 @@
                         
 
                             
-
-
-
-
-3.1 Different types of layer folders
-    There are two different types of layer folder, Pecha where ocr is the initial_creation_type has on
