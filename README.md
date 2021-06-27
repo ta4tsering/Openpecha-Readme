@@ -11,12 +11,11 @@
             
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/meta.png)
 
-    2.1 different types of initial_creation_typ
-        2.1.1 ebook
-            annotation_type = ebook
-
-        2.1.2 ocr
-            annotation_type = ocr
+        2.1 different types of initial_creation_type
+            2.1.1 ebook
+                initial_creation_type = ebook
+            2.1.2 ocr
+                initial_creation_type = ocr
 
     3. Pecha_id.opf
         Path = Pecha_id/Pecha_id.opf
