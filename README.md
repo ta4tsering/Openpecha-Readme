@@ -9,7 +9,7 @@ ontents
         2. README.md
             Path = Pecha_id/README.md
             eg: P000001/README.md
-            ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/Readme.png)
+ ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/Readme.png)
 
         2. base
             2.1 base files names
