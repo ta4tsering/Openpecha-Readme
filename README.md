@@ -1,7 +1,7 @@
 ### Contents
     1. README.md
         Path = Pecha_id/README.md
-        eg: P000001/README.md
+        eg: P000600/README.md
             
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/Readme.png)
 
@@ -14,7 +14,7 @@
                 initial_creation_type = ocr
                 
         Path = Pecha_id/Pecha_id.opf/meta.yml
-        eg: P000001/P000001.opf/meta.yml
+        eg: P000600/P000600.opf/meta.yml
             
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/meta.png)
 
@@ -23,7 +23,8 @@
         Path = Pecha_id/Pecha_id.opf
         3.1 base
             Path = pecha_id/pecha_id.opf/base/volumenum.txt
-            eg: P000001/P000001.opf/base/v001.txt
+            eg: P000600/P000600.opf/base/v001.txt
+            
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/base.png)
                 
         3.1 layers
