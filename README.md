@@ -1,19 +1,19 @@
-### Contents
-    1. README.md
+##### Contents
+  ### 1. README.md
         Path = Pecha_id/README.md
         eg: 
             P000600/README.md
             
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/Readme.png)
 
-    3. Pecha_id.opf
+  ### 2. Pecha_id.opf
         Path = Pecha_id/Pecha_id.opf
         
-        3.1 meta.yml
+      ## 2.1 meta.yml
              Different types of initial_creation_type
-                2.1 ebook
+              ## 2.1.1 ebook
                     initial_creation_type = ebook
-                2.2 ocr
+              ## 2.1.2 ocr
                     initial_creation_type = ocr
 
             Path = Pecha_id/Pecha_id.opf/meta.yml
