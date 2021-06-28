@@ -9,7 +9,7 @@
   ### 2. Pecha_id.opf
         Path = Pecha_id/Pecha_id.opf
         
-      ## 2.1 meta.yml
+      ### 2.1 meta.yml
              Different types of initial_creation_type
               ## 2.1.1 ebook
                     initial_creation_type = ebook
@@ -24,14 +24,14 @@
 
 
     
-        3.2 base
+      ## 2.2 base
             Path = pecha_id/pecha_id.opf/base/volumenum.txt
             eg: 
                 P000600/P000600.opf/base/v001.txt
             
 ![](https://raw.githubusercontent.com/ta4tsering/Openpecha-Readme/main/images/base.png)
                 
-        3.3 layers
+      ## 2.3 layers
             There are two different layers content
                 1 layer files of pecha with initial_creation_type = ebook
                    1.1 Author.yml
